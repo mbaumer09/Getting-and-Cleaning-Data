@@ -1,5 +1,5 @@
-#Data dictionary
-##UCI HAR Dataset
+                    DATA DICTIONARY: UCI HAR Dataset
+
 
 Subject:        Subject ID number
 
