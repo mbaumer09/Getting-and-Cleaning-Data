@@ -15,12 +15,6 @@ The script mostly follows the order of the assignment:
      5. From the data set in step 4, creates a second, independent tidy data set with the average of each  
         variable for each activity and each subject.
 
-# IMPORTANT FIRST STEP BEFORE TRYING TO RUN THE SCRIPT
-
-Make sure to go in and set the correct file path in line 20! The path you should change it to is whatever folder contains the folder extracted from the .zip file.
-
-homeDirectory = [INSERT PATH TO FOLDER CONTAINING THE FOLDER "UCI HAR Dataset" HERE!]
-
 #Part one
 
 First, reads into R the column names and activity key. Then it reads all of the data from the test and train folders and renames the columns. This is the only part of the script done out of order: this effectively completes parts 1 and 4 at the same time. 
