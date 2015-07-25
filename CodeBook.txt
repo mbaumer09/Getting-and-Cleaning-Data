@@ -1,7 +1,10 @@
                     DATA DICTIONARY: UCI HAR Dataset
 
+All body and gravity accelerations measured in standard gravity acceleration units 'g'. Jerk units are g/sec.
+All gyroscope accelerations measured in radians/sec.
+Frequencies are in units of Hz.
 
-Subject:        Subject ID number
+Subject:        Subject ID number. Range is 1 through 30.
 
 Activity:       Action taken while data was collected. One of:
                 STANDING           
